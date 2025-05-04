@@ -1,2 +1,26 @@
 # Pipelines-Models-nre-spacy
-spaCy’s tagger, parser, text categorizer and many other components are powered by statistical models. Every “decision” these components make – for example, which part-of-speech tag to assign, or whether a word is a named entity – is a prediction based on the model’s current weight values.
+
+A modular NLP pipeline using [spaCy](https://spacy.io/) for Neural Relation Extraction (NRE). This project allows users to preprocess text, extract entities, and identify relationships between entities using custom or pretrained models.
+
+## 🚀 Features
+
+- Named Entity Recognition (NER) using spaCy models
+- Custom Relation Extraction pipeline component
+- Support for training and evaluation
+- Pipeline integration with spaCy
+- Easy to extend and customize
+
+## 🧠 Use Cases
+
+- Extracting relationships in biomedical, legal, or financial documents
+- Building knowledge graphs from unstructured text
+- Automating information extraction tasks
+
+## 📦 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/Pipelines-Models-nre-spacy.git
+cd Pipelines-Models-nre-spacy
+pip install -r requirements.txt
