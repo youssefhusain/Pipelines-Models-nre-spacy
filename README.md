@@ -16,11 +16,3 @@ A modular NLP pipeline using [spaCy](https://spacy.io/) for Neural Relation Extr
 - Building knowledge graphs from unstructured text
 - Automating information extraction tasks
 
-## 📦 Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/Pipelines-Models-nre-spacy.git
-cd Pipelines-Models-nre-spacy
-pip install -r requirements.txt
