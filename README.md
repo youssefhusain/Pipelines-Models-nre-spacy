@@ -2,6 +2,7 @@
 
 A modular NLP pipeline using [spaCy](https://spacy.io/) for Neural Relation Extraction (NRE). This project allows users to preprocess text, extract entities, and identify relationships between entities using custom or pretrained models.
 
+
 ## 🚀 Features
 
 - Named Entity Recognition (NER) using spaCy models
